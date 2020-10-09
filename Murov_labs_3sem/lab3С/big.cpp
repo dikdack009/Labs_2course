@@ -255,10 +255,12 @@ namespace Prog3_1 {
 			slg1.dec[slg1.n] = '\0';
 			slg1.n--;
 		}
-		/*for (int i = 0; i <= slg1.n; ++i)
-			std::cout << slg1.dec[i];
-		std::cout << std::endl;*/
-		return slg1;
+		//std::cout << slg1.n << std::endl;
+		Big_Dec res(slg1, 0);
+		for (int i = 0; i <= res.n; ++i)
+			std::cout << res.dec[i];
+		std::cout << std::endl;
+		return res;
 	}
 
 	const Big_Dec Big_Dec::operator-() const {
