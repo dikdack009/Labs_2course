@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="task_4::Commander" Collapsed="true">
+    <Position X="4.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAQAABAAAAAAAAAAgAAAAAAAAEAAAAAAEIAA=</HashCode>
+      <FileName>commander.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="task_4::Crew" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BEAAAAAAAAAABAAABEAAAAAAAAQASAAAAAAAAAAAAAA=</HashCode>
+      <FileName>crew.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="task_4::FieldCommander" Collapsed="true">
+    <Position X="2.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAQAABACAAAAAAAAgAAAAAAAAEAAAAAAEAAA=</HashCode>
+      <FileName>field_commander.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="task_4::Military" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAABAAIgRAAAQAgAAAEAAAAAAAAwCIEBgA=</HashCode>
+      <FileName>military.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="task_4::Soldier" Collapsed="true">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIABAAAAAAAAAAgAgAAAAAAgAAAQAQEAAA=</HashCode>
+      <FileName>soldier.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="task_4::Staff" Collapsed="true">
+    <Position X="12.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>staff.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="task_4::StaffMember" Collapsed="true">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAEBAAAAAAAAEAgAAAAAAAACABAAAAEAgA=</HashCode>
+      <FileName>staff_member.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="task_4::Table" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAEABAAAAAMAAAQAAAAAAAAAAAAQACAAAAA=</HashCode>
+      <FileName>table.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="task_4::TableElement" Collapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAABAAAAEAAAAAACAAgA=</HashCode>
+      <FileName>table_element.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="task_4::Training" Collapsed="true">
+    <Position X="6.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAMAAAAAEABAAAAEAAAAQIEAUAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>training.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="task_4::TrainingDescriptor" Collapsed="true">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>training.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="task_4::Command" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAABAAAA=</HashCode>
+      <FileName>structs.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="task_4::Instruction" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAIAAgA=</HashCode>
+      <FileName>structs.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
